@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.1
+FROM gliderlabs/alpine:3.4
 
 MAINTAINER Seth Lakowske <lakowske@gmail.com>
 
